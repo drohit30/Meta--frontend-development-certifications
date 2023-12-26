@@ -17,3 +17,13 @@ How to prepare for technical interviews for front-end developer roles.
 By the end, you’ll put your new skills to work by completing a real-world project where you’ll create your own front-end web application. Any third-party trademarks and other intellectual property (including logos and icons) referenced in the learning experience remain the property of their respective owners. Unless specifically identified as such, Coursera’s use of third-party intellectual property does not indicate any relationship, sponsorship, or endorsement between Coursera and the owners of these trademarks or other intellectual property.
 
 # Certificates
+
+[1. Introduction to Front-End Development](https://coursera.org/share/b4ef8d647cdea132e14387f6988c6267)
+
+[2. Programming with JavaScript](https://coursera.org/share/58eb6e237d2968ec00382e351bc894a1)
+
+[3. Version Control](https://coursera.org/share/56f74fb2302a1fbba247a1d694ef2a65)
+
+[4. HTML and CSS in depth](https://coursera.org/share/91afdebd3131ffbd2b60f2a6edd00529)
+
+
